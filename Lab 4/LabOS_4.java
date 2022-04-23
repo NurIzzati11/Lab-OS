@@ -1,8 +1,6 @@
-package labos_4;
-
 import java.util.Scanner;
 
-public class LabOS_4 {
+public class BestFit {
 
     
     // Code for Lab 4 - Best Fit
